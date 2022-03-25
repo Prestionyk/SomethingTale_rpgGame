@@ -3,10 +3,20 @@ This is extended version of game that I made with my cooleagues. I added backgro
 
 Origin version at: https://github.com/Prestionyk/ProjectPP-group-F
 
-Use <b>arrows</b> to move in menu and <b>Z</b> to confirm acction. I recomment to first loot at <b>CONTROLS</b> section.
+## CONFIG
+Download 2 music in <b> .WAV </b> format u want to play in game.
+
+(Git hub don't allow to upload files over 25 MB)
+
+Name music files <b>"CyberIntro"</b> and <b>"NightRunning"</b> and paste them in folder <b>FirstCode\bin\Debug\netcoreapp3.1\Musics</b>
+
+(Yeeeea these names :D)
+
+## GOOD TO KNOW
+Use <b>arrows</b> to move in menu and <b>Z</b> to confirm acction. I recommend to first loot at <b>CONTROLS</b> section.
 
 Symbols:
-- ▲  -map entry
+- ▲ - map entry
 - ◊ - dungeon
 - X - player
 
